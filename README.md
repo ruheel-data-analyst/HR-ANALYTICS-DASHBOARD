@@ -79,3 +79,26 @@ This dashboard transforms static HR data into a **strategic decision-making tool
 
 ## 📁 File Structure
 
+
+---
+
+## 📝 Final Thoughts
+
+This project was both a technical and storytelling challenge. It helped me deepen my Power BI, DAX, and data visualization skills while creating something that could **genuinely impact HR strategies** in a real-world organization.
+
+Feel free to fork, explore, or suggest improvements!
+
+---
+
+## 📷 Dashboard Preview
+
+> *([https://github.com/ruheel-data-analyst/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.PNG]
+
+---
+
+## 📬 Contact
+
+If you have questions, feedback, or collaboration ideas, feel free to reach out!  
+📧 ruheel.ritti@gmail.com  
+🔗 [[[LinkedIn](https://www.linkedin.com/in/ruheel-data-analyst/)]
+
