@@ -92,7 +92,7 @@ Feel free to fork, explore, or suggest improvements!
 
 ## 📷 Dashboard Preview
 
-> *([https://github.com/ruheel-data-analyst/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.PNG]
+> *([https://github.com/ruheel-data-analyst/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.PNG])
 
 ---
 
